@@ -16,4 +16,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
