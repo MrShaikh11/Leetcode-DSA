@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
