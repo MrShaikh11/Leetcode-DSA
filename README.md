@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0136-single-number) |
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -49,6 +51,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
