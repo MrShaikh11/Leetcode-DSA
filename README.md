@@ -5,6 +5,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
