@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
