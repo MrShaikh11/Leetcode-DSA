@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -78,5 +80,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
