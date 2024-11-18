@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0054-spiral-matrix) |
@@ -54,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/MrShaikh11/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
